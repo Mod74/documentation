@@ -49,7 +49,7 @@ If you have loaded Raspbian onto a blank SD card, you will have two partitions. 
 
 ## 4. Set up your client
 
-SSH is built into Linux distributions and Mac OS. For Windows and mobile devices, third-party SSH clients are available. See the following guides for using SSH with the OS on your computer or device:
+SSH is built into Linux distributions, Mac OS and Windows 10. For Windows versions earlier than 10 and mobile devices, third-party SSH clients are available. See the following guides for using SSH with the OS on your computer or device:
 
 - [Linux & Mac OS](unix.md)
 - [Windows](windows.md)
